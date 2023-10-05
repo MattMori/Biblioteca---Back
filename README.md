@@ -1,8 +1,8 @@
 # Biblioteca-Back
 Projeto em Express.js do BoardTasks Back-End feito para o desafio 5 da formação em tecnologia da escola DNC.
 
-## Hospedagem da documentação com swagger: https://bibliotecaback.vercel.app/doc/#/
-## Hospedagem do frontEnd: https://projeto-biblioteca-front.vercel.app/
+### Hospedagem da documentação com swagger: https://bibliotecaback.vercel.app/doc/#/
+### Hospedagem do frontEnd: https://projeto-biblioteca-front.vercel.app/
 ----------------------------------------------------------------------------------------------------------
 
 ## Começe por aqui:
