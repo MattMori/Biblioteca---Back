@@ -10,7 +10,7 @@ Este repositório representa o Back-End da aplicação Biblioteca, com funcional
   - dotenv
   - nodemon
   
-🌐 Hospedagens
+## Hospedagens
  - Documentação Swagger (API Docs):
   https://bibliotecaback.vercel.app/doc/#/  
  - Front-End no Vercel:
